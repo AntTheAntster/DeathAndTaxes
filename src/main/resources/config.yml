@@ -1,0 +1,11 @@
+# DeathAndTaxes by AntTheAntster.
+# A plugin that taxes players upon death, configurable options on where to send the "Tax" to and/or splitting for PvP sake, Etc.
+# Any issues or questions, message me on discord: AntTheAntster
+# Credit goes to The Spigot Team and the VaultAPI Team.
+# NOTE: This plugin depends on an existing Economy plugin, I might make it standalone in the future if it is requested.
+# If you like the plugin, please rate it on Spigot as it has taken a long time to make this :)
+
+Tax Settings:
+  Tax Type: Amount # Choose either: Amount | Percentage
+                   # Percentage is recommended due to the chance the player does not have the fixed amount in their balance.
+  Tax Amount: 20 # Type the Amount or Percentage here (Without the % Symbol)
